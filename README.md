@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ hi there, i'm flaminia ✨
+# hi there
 
 *[your tagline — e.g. "turning coffee into code, one bug at a time"]*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CA2&center=true&vCenter=true&width=435&lines=[Your+first+line];[Your+second+line];[Your+third+line])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CA2&center=true&vCenter=true&width=435&lines=i'm flaminia;4th year computer engineering student;currently interning at telesat)](https://git.io/typing-svg)
 
 </div>
 
