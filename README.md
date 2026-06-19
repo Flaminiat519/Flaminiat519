@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ hi there, i'm [Your Name] ✨
+# ✨ hi there, i'm flaminia ✨
 
 *[your tagline — e.g. "turning coffee into code, one bug at a time"]*
 
@@ -13,24 +13,20 @@
 ## 🌸 about me
 
 ```yaml
-name: "[Your Name]"
-pronouns: "[she/her · they/them · ...]"
-location: "[City, Country] 🌍"
-currently: "[What you're working on or studying]"
-looking_for: "[Open to work · collaborations · freelance · ...]"
+name: "Flaminia Testa"
+location: "Ottawa, Canada 🌍"
+currently: "Software Developer Coop @ Telesat"
 ```
 
-- 🎓 studying / working at **[School or Company]**
-- 💻 building things with **[Your main tech stack]**
-- 🌱 currently learning **[What you're exploring]**
-- 💬 ask me about **[Topics you love talking about]**
-- ⚡ fun fact: [Something quirky or interesting about you]
+- 🎓 studying at **Queen's University**
+- 💻 building things with **---**
+- 🌱 currently learning **Verilog**
 
 ---
 
 ## 🛠️ tech & tools
 
-<!-- tip: use https://skillicons.dev to generate icon badges -->
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 **languages**
 `[Language 1]` `[Language 2]` `[Language 3]`
