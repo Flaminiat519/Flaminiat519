@@ -1,94 +1,88 @@
-<div align="center">
+<h1 align="center">Hi, I'm Flaminia! </h1>
+<h3 align="center">Computer Engineering Student• Interest in Digital Design </h3>
 
-# hi there
-
-*[your tagline — e.g. "turning coffee into code, one bug at a time"]*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CA2&center=true&vCenter=true&width=435&lines=i'm flaminia;4th year computer engineering student;currently interning at telesat)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=550&lines=Building+chips+one+register+at+a+time+%F0%9F%92%96;Queen's+Engineering+%E2%80%2227;Future+Digital+IC+Design+Engineer+%40+Marvell;she%2Fher+%E2%80%A2+Kingston%2C+ON+%E2%80%A2+coffee+addict" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌸 about me
+### 🎀 About Me
 
-```yaml
-name: "Flaminia Testa"
-location: "Ottawa, Canada 🌍"
-currently: "Software Developer Coop @ Telesat"
+```javascript
+const flaminia = {
+  pronouns: "she/her",
+  location: "Ottawa, ON 🇨🇦",
+  studying: "Computer Engineering @ Queen's University",
+  gradYear: 2028,
+  currentlyLearning: ["System Verilog"],
+};
 ```
 
-- 🎓 studying at **Queen's University**
-- 💻 building things with **---**
-- 🌱 currently learning **Verilog**
+I'm a Computer Engineering student at **Queen's University**
+---
+
+### 💻 What I'm Up To
+
+🔧 **Come September**, I'm joining **Marvell Technology** as a **Digital IC Design Engineer Intern** in Ottawa
+
+💡 This past summer, I was a **Software Development Intern at Telesat**, building microservices for the Lightspeed satellite constellation working across the data query layer, Java backend services, and Azure cloud infrastructure.
 
 ---
 
-## 🛠️ tech & tools
+### 🌸 Skills & Toolkit
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+**Digital Design**
+![Verilog](https://img.shields.io/badge/-Verilog-9B59B6?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/-Quartus-FF69B4?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/-ModelSim-E75480?style=for-the-badge)
 
-**languages**
-`[Language 1]` `[Language 2]` `[Language 3]`
+**Programming**
+![Python](https://img.shields.io/badge/-Python-FFC0CB?style=for-the-badge&logo=python&logoColor=333)
+![Java](https://img.shields.io/badge/-Java-FF85B3?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-D291BC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-F7CAC9?style=for-the-badge&logo=postgresql&logoColor=333)
+![Git](https://img.shields.io/badge/-Git-F94892?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-DB7093?style=for-the-badge&logo=linux&logoColor=white)
+![Assembly](https://img.shields.io/badge/-ASM-FFB6C1?style=for-the-badge)
 
-**frameworks & libraries**
-`[Framework 1]` `[Framework 2]` `[Framework 3]`
+**Hardware Lab** 🔌
+Oscilloscope • Digital Multimeter • Function Generator
 
-**tools & platforms**
-`[Tool 1]` `[Tool 2]` `[Tool 3]`
-
----
-
-## 🌷 what i'm up to
-
-| 🔭 building | [Project or thing you're building] |
-|---|---|
-| 📖 reading | [Book, course, or docs you're going through] |
-| 🎧 vibing to | [Playlist, artist, or podcast] |
-| 🍵 fueled by | [Your drink of choice] |
-
----
-
-## 💌 featured projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME]&theme=rose_pine)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME])
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=rose_pine)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2])
-
-</div>
+**Languages I Speak (not code, actual words)** 🌍
+🇮🇹 Italian (native) · 🇫🇷 French (limited working proficiency) · 🇪🇸 Spanish (beginner, but trying my best)
 
 ---
 
-## 📊 github stats
+### 🎓 Education
 
-<div align="center">
+**Queen's University** — Bachelor of Applied Science, Computer Engineering
+Sept 2023 – May 2027 · Kingston, ON
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=rose_pine&hide_border=true)
-
-</div>
-
----
-
-## 🌐 find me elsewhere
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F78CA2.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://[YOUR_WEBSITE])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
-
-</div>
+- 🥈 2nd Place, Ontario Engineering Competition
+- 🥇 1st Place, Queen's Engineering Competition
+- 📚 Computer Architecture, Digital Systems Engineering, Operating Systems, Electronics I, Algorithms, Electromagnetics, Database Management Systems, Computer Networks
 
 ---
 
-<div align="center">
+### 💗 Leadership & Community
 
-*thanks for stopping by — feel free to poke around! 🌸*
+I believe engineering is better with community:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=f78ca2&style=flat-square&label=visitors)
+- **Sponsorships Director, WiSE** (Women in Science and Engineering) — secured **$7,000+** in funding and built lasting corporate sponsor relationships
+- **Co-Chair, First Year Integration Conference (ESSCO)** — led **30+ volunteers** to run a multi-day conference for **150+ students**, managing a **$40,000 budget** and coordinating sponsors, speakers, and logistics
 
-</div>
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/flaminia-testa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:flaminiatesta5@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-E75480?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">✨ thanks for stopping by my profile, now go build something cute (and functional) ✨</p>
