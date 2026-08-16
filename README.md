@@ -11,8 +11,6 @@
 - **Graduation Year:** 2028
 - **Currently Learning:** SystemVerilog
 
-I'm a Computer Engineering student at **Queen's University**.
-
 ---
 
 ### Experience
